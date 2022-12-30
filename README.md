@@ -23,7 +23,7 @@ Everything will install, if something doesn't install correctly let me know.
 # Configurations
 ## Themes
 All color themes are from [Catppuccin](https://github.com/catppuccin) because I love it, if you want to change it you need to follow these steps : 
-#### Neovim : 
+### Neovim : 
 if you only want to change the theme of catppuccin you need to change this line : 
 ```lua
 flavour = "frappe", -- latte, frappe, macchiato, mocha
